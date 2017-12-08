@@ -13,6 +13,7 @@ Every container in bootstrap can be divided into 12 columns. Using grid system, 
 
 
 To divide the large screen into 4 columns: (Calculation=> 12 units / 4 = 3 )
+Therefore, we will designate 3 units
 
 ```
 <div class="container">
